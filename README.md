@@ -1,1 +1,2 @@
-# lecture-notes
+# lecture-notes:
+ Lecture Notes Organizer is a digital or physical system that helps students organize their course materials and lecture notes systematically. It allows for easy categorization by subject, date, topic, or semester, ensuring quick access and improved study efficiency. Features may include keyword search, tagging, note linking, file attachments (PDFs, images, videos), and synchronization across devices. It is especially useful for managing large volumes of academic content and preparing for exams or assignments.
